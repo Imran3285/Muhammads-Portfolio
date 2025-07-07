@@ -1,0 +1,18 @@
+# Intelligent Aerial Manipulator for Dynamic Object Interaction
+
+This project features an advanced quadcopter built with a SpeedyBee F7 microcontroller and mini camera for dynamic object detection and tracking using computer vision. The drone is cost-effective, capable of carrying up to 10 kg surveillance equipment, and operates within an 800-meter range.
+
+- **Objective:** Support Pakistan’s defense system with advanced surveillance capabilities in hard-to-reach areas.
+- **Technologies:** SpeedyBee F7, Python, OpenCV, Embedded Systems, Computer Vision.
+- **Achievements:** Successfully completed with NUST funding.
+
+## Features
+- Real-time object detection and tracking
+- Payload capacity: 10 kg
+- Range: 800 meters
+
+## Gallery
+(Add images, diagrams, or demo videos here)
+
+## Contribution
+Open for collaboration and improvements.
