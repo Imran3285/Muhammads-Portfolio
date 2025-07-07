@@ -1,2 +1,4 @@
-# Muhammads-Portfolio
-I am a results-driven Master's student in Data Science for Business with a strong engineering background. My proficiency in Python, SQL, Power BI, and statistics has empowered me to develop advanced technical skills. I am eager to apply my knowledge and experience in an organization that prioritizes innovation and growth.
+# Hi there !
+I am Muhammad Imran, a results-driven Master's student in Data Science for Business with a strong engineering background. My proficiency in Python, SQL, Power BI, and statistics has empowered me to develop advanced technical skills. 
+I have developed predictive models, built intelligent systems, and delivered actionable insights across domains — from healthcare and telecom to industrial automation and strategic consulting. My academic and project work reflects a passion for innovation, a commitment to learning, and a drive to make data meaningful.
+I’m eager to contribute to organizations that value innovation, collaboration, and impact. Whether it’s optimizing business processes, designing smart systems, or crafting data stories that drive decisions, I bring a blend of technical depth, strategic thinking, and real-world experience to the table. 
